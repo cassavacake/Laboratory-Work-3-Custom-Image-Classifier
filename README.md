@@ -1,5 +1,7 @@
 # Laboratory-Work-3-Custom-Image-Classifier
-Google Collab Link: https://colab.research.google.com/drive/1uXAmRRzTup9VatPcl7W6_VdXp3F7la4X
+#Google Collab Link: https://colab.research.google.com/drive/1uXAmRRzTup9VatPcl7W6_VdXp3F7la4X
+
+
 #1. Dataset Preparation
 How did you organize your dataset in Google Drive?
 I put all my dataset into one folder in Google Drive called ImageSet. Then I made folders inside ImageSet for each type of plant. For example, I had folders for Barberries, Fuchsia, Forsythia, and more. Each folder had pictures of that plant type. TensorFlow used the folder names to know which pictures belonged to which plant type.
